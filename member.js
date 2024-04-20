@@ -7,6 +7,7 @@ function skillMember() {
             city: "New York",
             country: "USA"
         }
+        
     };
     return member;
 }
